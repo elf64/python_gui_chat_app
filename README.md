@@ -2,9 +2,9 @@
 ## Python GUI Chat App
 This is a client-server chat app made with python
 ### How To Run
-You need to add your ip/localhost in the client.py
+You need to add your ip/localhost in the client.py/server.py
 ```python
-# server.py
+# server.py/client.py
 HOST = '' # Your IP
 PORT = 9999 # Your Port
 ```
