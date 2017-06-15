@@ -16,6 +16,8 @@ To change your name just edit the settings.json
 }
 ```
 Then just start the server.py, client.py and start Chatting :D
+## Screenshot
+![alt text](https://s24.postimg.org/nj2ewd4ad/Capture5.png)
 ## TODO
 ```
 1. Add colored text to chat names
